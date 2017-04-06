@@ -231,7 +231,7 @@ Maven:
 Talks & Slides
 -------
 
-* Andev con SF (2016): [slides](https://speakerdeck.com/stephanenicolas/dart-and-henson)
+* Andev con SF (2016): [slides](https://speakerdeck.com/stephanenicolas/dart-and-henson-better-android-intents)
 
 License
 -------
